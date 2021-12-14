@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisDiscos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Grupo">Grupo:</string>
+    <string name="disco">Título del disco:</string>
+    <string name="añadir">Añadir</string>
+    <string name="borrar">Borrar</string>
+</resources>
